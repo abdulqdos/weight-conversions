@@ -1,6 +1,5 @@
 <?php
 
-
 use AbdulqdosAlabinie\WeightConversions\Weight;
 
 it('can test', function () {
