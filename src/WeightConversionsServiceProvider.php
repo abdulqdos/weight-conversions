@@ -2,9 +2,9 @@
 
 namespace AbdulqdosAlabinie\WeightConversions;
 
+use AbdulqdosAlabinie\WeightConversions\Commands\WeightConversionsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AbdulqdosAlabinie\WeightConversions\Commands\WeightConversionsCommand;
 
 class WeightConversionsServiceProvider extends PackageServiceProvider
 {

@@ -2,9 +2,9 @@
 
 namespace AbdulqdosAlabinie\WeightConversions\Tests;
 
+use AbdulqdosAlabinie\WeightConversions\WeightConversionsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AbdulqdosAlabinie\WeightConversions\WeightConversionsServiceProvider;
 
 class TestCase extends Orchestra
 {
