@@ -21,6 +21,6 @@ class Weight
 
     public function toStones(): float
     {
-        return $this->kilograms * 0.15747 ;
+        return $this->kilograms * 0.15747;
     }
 }
